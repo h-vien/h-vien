@@ -1,11 +1,12 @@
-# Hi, I’m Vien Huynh!   <img src="https://cdn3.emoji.gg/emojis/2537-codercat.gif" width="32px" height="32px" alt="codercat">
+# Hi, I’m Vien Huynh!   <a href="https://emoji.gg/emoji/1744-turtle"><img src="https://cdn3.emoji.gg/emojis/1744-turtle.png" width="24px" height="24px" alt="Turtle"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&random=false&width=435&lines=On+it+to+win+it)](https://git.io/typing-svg)
 
 
 <a href=https://www.linkedin.com/in/hoangvien/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> 
+<a href=https://www.facebook.com/vienhoang133/> <img src="https://img.shields.io/badge/-Facebook-4267B2?style=plastic&logo=facebook"> </a> 
 
 🧑‍💻 My name is Vien Huynh and I'm studying IT at DUT. Currently, I am working as FE Engineer at Enouvo and FE lead at GDSC-DUT.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F8AF7&random=false&width=435&lines=On+it+to+win+it)](https://git.io/typing-svg)
 
 ## 🛠 &nbsp;Tech Stack
 
