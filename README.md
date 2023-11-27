@@ -1,5 +1,5 @@
 # Hi, I’m Vien Huynh!   <a href="https://emoji.gg/emoji/1744-turtle"><img src="https://cdn3.emoji.gg/emojis/1744-turtle.png" width="24px" height="24px" alt="Turtle"></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&random=false&width=435&lines=On+it+to+win+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&random=false&width=435&lines=In+it+to+win+it)](https://git.io/typing-svg)
 
 
 <a href=https://www.linkedin.com/in/hoangvien/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> 
