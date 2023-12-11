@@ -7,8 +7,9 @@
 
 🧑‍💻 My name is Vien Huynh and I'm studying IT at DUT. Currently, I am working as FE Engineer at Enouvo and FE lead at GDSC-DUT.
 
+💻 My website: [vienhuynh.dev](https://vienhuynh.dev/)
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stacks
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;\
