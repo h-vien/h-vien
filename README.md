@@ -52,4 +52,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3iV&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
-* Comming soon...
+### 1. Fake git commit 
+This project is to fake git commit or u can draw pixel art/ text in the commit activity table
+[Link - Demo](https://time-travel.vienhuynh.dev)
+
+
+<img width="1289" alt="Screenshot 2024-02-13 at 21 25 47" src="https://github.com/N3iV/N3iV/assets/80262438/dd747c9e-87b6-4462-ba59-372c2b90d43c">
