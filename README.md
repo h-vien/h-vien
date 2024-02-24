@@ -43,14 +43,6 @@
 
 
 
-## 📈 Github Stats
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=N3iV&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N3iV&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3iV&theme=tokyonight&layout=compact&langs_count=6">
-
 ## ✨ Project Showcase
 ### 1. Fake git commit 
 This project is to fake git commit or u can draw pixel art/ text in the commit activity table
