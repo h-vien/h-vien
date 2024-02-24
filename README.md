@@ -44,7 +44,14 @@
 
 
 ## ✨ Project Showcase
-### 1. Fake git commit 
+
+### [1. Personal Porfolio](https://vienhuynh.dev)
+
+
+![Screenshot 2024-02-24 at 22 23 30](https://github.com/N3iV/N3iV/assets/80262438/7c4f4d55-bc06-488b-a4fe-bedb8f3e7a2d)
+
+
+### [2. Time-travel](https://time-travel.vienhuynh.dev)
 This project is to fake git commit or u can draw pixel art/ text in the commit activity table
 [Link - Demo](https://time-travel.vienhuynh.dev)
 
