@@ -5,7 +5,7 @@
 <a href=https://www.linkedin.com/in/hoangvien/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> 
 <a href=https://www.facebook.com/vienhoang133/> <img src="https://img.shields.io/badge/-Facebook-4267B2?style=plastic&logo=facebook"> </a> 
 
-🧑‍💻 My name is Vien Huynh and I'm studying IT at DUT. Currently, I am working as FE Engineer at Enouvo and FE lead at GDSC-DUT.
+🧑‍💻 My name is Vien Huynh and I'm studying IT at DUT. Currently, I am working as Software Engineer.
 
 💻 My website: [vienhuynh.dev](https://vienhuynh.dev/)
 
