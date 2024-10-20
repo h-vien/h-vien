@@ -7,7 +7,7 @@
 
 🧑‍💻 My name is Vien Huynh and I'm studying IT at DUT. Currently, I am working as Software Engineer.
 
-💻 My website: [vienhuynh.dev](https://vienhuynh.dev/)
+💻 My website: [vienhuynh.dev](https://vienhuynh.vercel.app/)
 
 ## 🛠 &nbsp;Tech Stacks
 
