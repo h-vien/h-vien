@@ -5,9 +5,9 @@
 <a href=https://www.linkedin.com/in/hoangvien/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> 
 <a href=https://www.facebook.com/vienhoang133/> <img src="https://img.shields.io/badge/-Facebook-4267B2?style=plastic&logo=facebook"> </a> 
 
-🧑‍💻 My name is Vien Huynh and I'm studying IT at DUT. Currently, I am working as Software Engineer.
+🧑‍💻 My name is Vien Huynh, and I have graduated in IT from DUT. Currently, I am working as a Software Engineer.
 
-💻 My website: [vienhuynh.dev](https://vienhuynh.vercel.app/)
+💻 My website: [vienhuynh.tech](https://vienhuynh.tech/)
 
 ## 🛠 &nbsp;Tech Stacks
 
@@ -47,9 +47,9 @@
 
 <table>
   <tr>
-    <td align="center"><br /><img src="https://github.com/N3iV/N3iV/assets/80262438/7c4f4d55-bc06-488b-a4fe-bedb8f3e7a2d" height="200px" width="400px;" alt=""/><br /><b>Personal Blog</b><br /> <a href="https://vienhuynh.dev" >Link</a>
-    <td align="center"><br /><img src="https://github.com/N3iV/N3iV/assets/80262438/dd747c9e-87b6-4462-ba59-372c2b90d43c" width="400px;"  height="200px" alt=""/><br /><b>Time Travel</b><br /> <a href="https://time-travel.vienhuynh.dev">Link</a>
-    <td align="center"><br /><img src="https://github.com/h-vien/h-vien/assets/80262438/de7fd430-dc53-46e4-9985-47184a20e48d" width="400px;"  height="200px" alt=""/><br /><b>VieLang</b><br /> <a href="https://vielang.vienhuynh.dev">Link</a>
+    <td align="center"><br /><img src="https://github.com/N3iV/N3iV/assets/80262438/7c4f4d55-bc06-488b-a4fe-bedb8f3e7a2d" height="200px" width="400px;" alt=""/><br /><b>Personal Blog</b><br /> <a href="https://vienhuynh.tech" >Link</a>
+    <td align="center"><br /><img src="https://github.com/N3iV/N3iV/assets/80262438/dd747c9e-87b6-4462-ba59-372c2b90d43c" width="400px;"  height="200px" alt=""/><br /><b>Time Travel</b><br /> <a href="https://time-travel.vienhuynh.tech/">Link</a>
+    <td align="center"><br /><img src="https://github.com/h-vien/h-vien/assets/80262438/de7fd430-dc53-46e4-9985-47184a20e48d" width="400px;"  height="200px" alt=""/><br /><b>VieLang</b><br /> <a href="https://vielang.vercel.app/">Link</a>
   </tr>
   
 </table>
