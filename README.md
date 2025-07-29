@@ -44,15 +44,13 @@
 
 
 ## ✨ Project Showcase
+1. [schedmeet](https://schedmeet.space) </br>
+2. [datedi](https://datedi.space) </br>
+3. [BugFlow](https://chromewebstore.google.com/detail/hickklboccnlpdbclnknmfcneafaehde?utm_source=item-share-cb)
+4. [vienhuynh](https://vienhuynh.tech)
+5. [n8nhosting](https://n8nhosting.app)
+6. [Vielang](https://vielang.vercel.app/dev-mode)
 
-<table>
-  <tr>
-    <td align="center"><br /><img src="https://fast.image.delivery/jfymasw.png" width="400px;"  height="200px" alt=""/><br /><b>DateDi</b><br /> <a href="https://datedi.space/">Link</a>
-    <td align="center"><br /><img src="https://github.com/N3iV/N3iV/assets/80262438/7c4f4d55-bc06-488b-a4fe-bedb8f3e7a2d" height="200px" width="400px;" alt=""/><br /><b>Personal Blog</b><br /> <a href="https://vienhuynh.tech" >Link</a>
-    <td align="center"><br /><img src="https://github.com/h-vien/h-vien/assets/80262438/de7fd430-dc53-46e4-9985-47184a20e48d" width="400px;"  height="200px" alt=""/><br /><b>VieLang</b><br /> <a href="https://vielang.vercel.app/">Link</a>
-  </tr>
-  
-</table>
 
 <img src="https://raw.githubusercontent.com/h-vien/h-vien/output/snake.svg" alt="Snake animation" />
 
