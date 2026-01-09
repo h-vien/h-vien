@@ -7,7 +7,7 @@
 
 🧑‍💻 My name is Vien Huynh, and I have graduated in IT from DUT. Currently, I am working as a Software Engineer.
 
-💻 My website: [vienhuynh.tech](https://vienhuynh.tech/)
+💻 My website: [vienhuynh.dev](https://vienhuynh.dev/)
 
 ## 🛠 &nbsp;Tech Stacks
 
@@ -47,7 +47,7 @@
 1. [schedmeet](https://schedmeet.space) </br>
 2. [datedi](https://datedi.space) </br>
 3. [BugFlow](https://chromewebstore.google.com/detail/hickklboccnlpdbclnknmfcneafaehde?utm_source=item-share-cb)
-4. [vienhuynh](https://vienhuynh.tech)
+4. [vienhuynh](https://vienhuynh.dev)
 5. [n8nhosting](https://n8nhosting.app)
 6. [Vielang](https://vielang.vercel.app/dev-mode)
 
