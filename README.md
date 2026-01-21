@@ -46,10 +46,11 @@
 ## ✨ Project Showcase
 1. [schedmeet](https://schedmeet.space) </br>
 2. [datedi](https://datedi.space) </br>
-3. [BugFlow](https://chromewebstore.google.com/detail/hickklboccnlpdbclnknmfcneafaehde?utm_source=item-share-cb)
-4. [vienhuynh](https://vienhuynh.dev)
-5. [n8nhosting](https://n8nhosting.app)
-6. [Vielang](https://vielang.vercel.app/dev-mode)
+3. [Veezy](https://veezy.dev)
+3. [Hidey](https://hidey.vienhuynh.dev)
+5. [vienhuynh](https://vienhuynh.dev)
+6. [n8nhosting](https://n8nhosting.app)
+7. [Vielang](https://vielang.vercel.app/dev-mode)
 
 
 <img src="https://raw.githubusercontent.com/h-vien/h-vien/output/snake.svg" alt="Snake animation" />
